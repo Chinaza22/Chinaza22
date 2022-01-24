@@ -1,4 +1,4 @@
-- 👋 Hi, I’m chinaza
+- 👋 Hi, I’m Chinaza Obidike
 - 👀 I’m interested in making connections around the tech world
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on all interesting projects
